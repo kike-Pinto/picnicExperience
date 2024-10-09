@@ -1,0 +1,228 @@
+export const packagesData = [
+  {
+    id: 'picnic1',
+    title: 'Boho Picnic with Picnic Experience Co.',
+    price: '2 hours @ $312.84',
+    description:
+      'Picnic for 2 Adults, Can accommodate up to 6 Adults (Add to your appointment +4 Additional Adults)',
+    images: ['/images/picnicCanasto5.jpg', '/images/picnicCanasto6.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$289.00' },
+      {
+        item: 'NC State Sales Tax and Wake County Sales Tax Rate',
+        price: '7.25%',
+      },
+      {
+        item: 'NC State Sales Tax and Wake County Sales Tax Amount',
+        price: '$20.95',
+      },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic2',
+    title: 'Sunset Beach Picnic',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/picnicCanasto3.jpg', '/images/picnicCanasto4.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic3',
+    title: 'Picnic 3',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/picnicCanasto.jpg', '/images/picnicCanasto2.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic4',
+    title: 'Picnic 4',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/picnicCanasto9.jpg', '/images/picnicCanasto10.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic5',
+    title: 'Sunset Beach Picnic',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/friendPicnic.jpg', '/images/familyPicnic.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic6',
+    title: 'Sunset Beach Picnic',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/girlsFriend3.jpg', '/images/girlsFriend4.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic7',
+    title: 'Sunset Beach Picnic',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/couplePicnic2.jpg', '/images/couplePicnic8.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic8',
+    title: 'Sunset Beach Picnic',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/couplePicnic7.jpg', '/images/couplePicnic5.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+  {
+    id: 'picnic9',
+    title: 'Sunset Beach Picnic',
+    price: '3 hours @ $250.00',
+    description: 'Picnic for 4 Adults. Can accommodate up to 8 Adults',
+    images: ['/images/picnicCanasto14.png', '/images/mujerPicnic4.jpg'],
+    pricingBreakdown: [
+      { item: 'Picnic', price: '$230.00' },
+      { item: 'NC State Sales Tax', price: '$15.50' },
+      { item: 'Price Including Tax', price: '$250.00' },
+      { item: 'Food and Beverage Tax', price: '1%' },
+      { item: 'Food and Beverage Tax Amount', price: '$2.89' },
+      { item: 'Price Including Tax', price: '$312.84' },
+    ],
+  },
+]
+
+export const packagesCardData = [
+  {
+    id: 'picnic1',
+    title: 'Picnic 1',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/picnicCanasto5.jpg',
+  },
+  {
+    id: 'picnic2',
+    title: 'Picnic 2',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/picnicCanasto3.jpg',
+  },
+  {
+    id: 'picnic3',
+    title: 'Picnic 3',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/picnicCanasto4.jpg',
+  },
+  {
+    id: 'picnic4',
+    title: 'Picnic 4',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/picnicCanasto.jpg',
+  },
+  {
+    id: 'picnic5',
+    title: 'Picnic 5',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/picnicCanasto2.jpg',
+  },
+  {
+    id: 'picnic6',
+    title: 'Picnic 6',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/friendPicnic2.jpg',
+  },
+  {
+    id: 'picnic7',
+    title: 'Picnic 7',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/girlsFriend2.jpg',
+  },
+  {
+    id: 'picnic8',
+    title: 'Picnic 8',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/friendPicnic.jpg',
+  },
+  {
+    id: 'picnic9',
+    title: 'Picnic ',
+    description:
+      '2.5 Hour Use for up to 8 People\nSetup & Clean Up\nCustom Calligraphy Sign\nSparkling Water\nAssortment of Pillow Seating\nDried Pampas Arrangement',
+    price: 123,
+    additionalCost: 0,
+    image: '/images/couplePicnic8.jpg',
+  },
+]
