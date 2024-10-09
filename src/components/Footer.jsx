@@ -59,40 +59,7 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Parte del Medio */}
-        {/* <div className='font-montserrat text-center sm:text-left lg:border-r-4 mr-20'>
-          <h3 className='text-3xl font-semibold mb-6'>Quick Links</h3>
-          <ul className='text-lg space-y-2 text-gray-700 font-semibold font-mono'>
-            <li>
-              <Link href='/'>Home</Link>
-            </li>
-            <li>
-              <Link href='/about'>About</Link>
-            </li>
-            <li>
-              <Link href='/packages'>Packages</Link>
-            </li>
-            <li>
-              <Link href='/book-now'>Book Now</Link>
-            </li>
-            <li>
-              <Link href='/gallery'>Gallery</Link>
-            </li>
-            <li>
-              <Link href='/gift-cards'>Gift Cards</Link>
-            </li>
-            <li>
-              <Link href='/join-the-team'>Join the Team</Link>
-            </li>
-            <li>
-              <Link href='/faqs'>FAQs</Link>
-            </li>
-            <li>
-              <Link href='/contact'>Contact</Link>
-            </li>
-          </ul>
-        </div> */}
-        <div className='font-montserrat text-center sm:text-left lg:border-r-4 mr-20'>
+        <div className='font-montserrat text-center sm:text-left lg:border-r-4 mr-0 pl-10'>
           <h3 className='text-3xl font-semibold mb-16'>Quick Links</h3>
           <ul className='text-lg space-y-2 text-gray-700 font-semibold font-mono'>
             {[
